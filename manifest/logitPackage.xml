@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Logit</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>LogitEventTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>LogitEntry__c</members>
+        <members>LogitEvent__e</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>LogitEntry__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>LogitEntry__c-LogEntry Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Logit</members>
+        <name>PermissionSet</name>
+    </types>
+    <version>60.0</version>
+</Package>
